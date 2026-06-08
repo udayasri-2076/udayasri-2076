@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Udayasri 👋
 
-<!--
-**udayasri-2076/udayasri-2076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final year B.Tech CSE student from Hyderabad, building my path into AI/ML engineering.
 
-Here are some ideas to get you started:
+## 🔧 What I'm working with
+- Python | Java | SQL
+- Scikit-learn | Pandas | NumPy
+- Currently learning: LangChain | RAG | GenAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm building
+- ML projects: classification and regression models deployed on Streamlit
+- Working towards: PDF Chatbot using LangChain + Gemini API
+
+## 🎯 Goal
+Land an AI/ML internship and grow into a GenAI engineer.
+
+📫 Reach me: udayasrisimma77@gmail.com
