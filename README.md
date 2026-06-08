@@ -14,4 +14,4 @@ Final year B.Tech CSE student from Hyderabad, building my path into AI/ML engine
 ## 🎯 Goal
 Land an AI/ML internship and grow into a GenAI engineer.
 
-📫 Reach me: udayasrisimma77@gmail.com
+📫 Reach me: udayas1220@gmail.com
