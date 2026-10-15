@@ -20,9 +20,9 @@ I'm passionate about building practical applications using **Generative AI, Mach
 
 ## 📚 Currently Learning
 
-- Backend development with **FastAPI, SQL, and PostgreSQL**
+- Backend development with FastAPI, SQL, and PostgreSQL
 - Machine learning fundamentals and model evaluation
-- LLM applications and Retrieval-Augmented Generation
+- LLM application development and RAG
 - Data Structures and Algorithms in Java
 
 ## 🎯 Career Interests
