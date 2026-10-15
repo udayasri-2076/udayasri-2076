@@ -14,34 +14,9 @@ I'm passionate about building practical applications using **Generative AI, Mach
 
 ## 🚀 Featured Projects
 
-### 🤖 DSA Automation
-
-An AI-powered workflow that connects coding solutions with automated study-material generation.
-
-- **Tech:** Python, FastAPI, PostgreSQL, SQLAlchemy, GitHub Webhooks, Gemini API, Telegram
-- Integrates coding workflows with LLM-generated learning materials.
-- Includes an approval workflow before generated content is committed.
-
-🔗 [View GenAI Projects Repository](https://github.com/udayasri-2076/GEN-AI-Projects)
-
-### 📄 Chat with PDF
-
-A document question-answering application that uses **Retrieval-Augmented Generation (RAG)** to answer questions about uploaded PDFs.
-
-- **Tech:** Python, Streamlit, LangChain, FAISS, Gemini API, Groq
-- Retrieves relevant document content to support question answering.
-- Deployed as a web application.
-
-🔗 [View GenAI Projects Repository](https://github.com/udayasri-2076/GEN-AI-Projects)
-
-### 📊 Machine Learning Projects
-
-A collection of machine learning classification and regression projects built with Python.
-
-- **Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
-- Includes projects involving prediction, preprocessing, and model training.
-
-🔗 [View Machine Learning Projects](https://github.com/udayasri-2076/Machine-Learning-Projects)
+- **[DSA Automation](https://github.com/udayasri-2076/GEN-AI-Projects)** — Automated DSA study-material generation using FastAPI and Gemini.
+- **[Chat with PDF](https://github.com/udayasri-2076/GEN-AI-Projects)** — Ask questions about PDFs using RAG, LangChain, and FAISS.
+- **[Machine Learning Projects](https://github.com/udayasri-2076/Machine-Learning-Projects)** — Classification and regression projects using Scikit-learn.
 
 ## 📚 Currently Learning
 
